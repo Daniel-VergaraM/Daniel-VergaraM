@@ -5,3 +5,11 @@
 
 - 🌱 Student at Universidad de los Andes.
 - 💻 Systems and Computer Engineering.
+
+📊 This week I spent sometime on:
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
+
