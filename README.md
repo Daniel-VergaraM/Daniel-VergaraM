@@ -6,8 +6,16 @@
 - 🌱 Student at Universidad de los Andes.
 - 💻 Systems and Computer Engineering.
 
-📊 This week I spent sometime on:
+:zap: Recent Activity:
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka_simple-->
 
 ```txt
 From: 31 March 2024 - To: 31 March 2025
@@ -21,7 +29,4 @@ Python            7 hrs 16 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 JSON              5 hrs 5 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.93 %
 ```
 
-<!--END_SECTION:waka-->
-
-
-
+<!--END_SECTION:waka_simple-->
