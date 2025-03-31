@@ -7,12 +7,17 @@
 - 💻 Systems and Computer Engineering.
 
 
+<h3><a href="https://linktr.ee/dvergaram" target="_blank">Socials</a></h3>
+  
+
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniel-vergaram&theme=github-dark-dimmed&custom_title=Daniel%27s%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
+<details> <summary> <b>⚡ Recent Activity</b> </summary>
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
@@ -62,6 +67,9 @@ Proyecto-SisTrans        17 mins             █░░░░░░░░░░�
  Last Updated on 31/03/2025 15:42:39 UTC
 <!--END_SECTION:waka-->
 
+</details>
+
+<details> <summary> <b>📈 GitHub Stats</b> </summary>
 <!--START_SECTION:simplewaka-->
 
 ```txt
@@ -77,3 +85,4 @@ JSON              5 hrs 5 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:simplewaka-->
+</details>
