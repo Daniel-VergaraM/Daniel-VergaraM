@@ -6,10 +6,8 @@
 - 🌱 Student at Universidad de los Andes.
 - 💻 Systems and Computer Engineering.
 
-:zap: Recent Activity:
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniel-vergaram&theme=github-dark-dimmed&custom_title=Daniel%27s%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
