@@ -5,10 +5,8 @@ on:
     - cron: "0 * * * *"
 jobs:
   build:
-    name: Update this repo's README with recent activity
+    name: Update GitHub Activity Readme
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - uses: actions/checkout@v4
