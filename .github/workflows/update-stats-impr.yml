@@ -1,4 +1,4 @@
-name: wakatime-stats
+name: Improved WakaTime Stats
 
 on:
   workflow_dispatch:

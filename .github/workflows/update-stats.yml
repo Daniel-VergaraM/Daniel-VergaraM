@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Simple WakaTime Stats
 
 on:
   workflow_dispatch:
