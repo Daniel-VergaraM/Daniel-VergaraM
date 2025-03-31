@@ -10,11 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              6 hrs 12 mins   ███████████▓░░░░░░░░░░░░░   47.23 %
-HTML              2 hrs 54 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
-Bash              2 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
-JavaScript        40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Lua               27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+From: 31 March 2024 - To: 31 March 2025
+
+Total Time: 264 hrs 15 mins
+
+Java              134 hrs 43 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.98 %
+JavaScript        54 hrs 52 mins  ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.77 %
+TypeScript        37 hrs 59 mins  ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.38 %
+Python            7 hrs 16 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.75 %
+JSON              5 hrs 5 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.93 %
 ```
 
 <!--END_SECTION:waka-->
