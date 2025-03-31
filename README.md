@@ -27,7 +27,7 @@ JSON              5 hrs 5 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka_simple-->
+<!--START_SECTION:simplewaka-->
 
 ```txt
 From: 31 March 2024 - To: 31 March 2025
@@ -41,4 +41,4 @@ Python            7 hrs 16 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 JSON              5 hrs 5 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.93 %
 ```
 
-<!--END_SECTION:waka_simple-->
+<!--END_SECTION:simplewaka-->
