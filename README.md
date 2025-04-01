@@ -5,6 +5,7 @@
 
 - 🌱 Student at Universidad de los Andes.
 - 💻 Systems and Computer Engineering.
+- [Most recent college "project"](https://github.com/Daniel-VergaraM/Taller-1-DSE) [Web](https://daniel-vergaram.github.io/Taller-1-DSE/)
 
 
 <h3><a href="https://linktr.ee/dvergaram" target="_blank">Socials</a></h3>
