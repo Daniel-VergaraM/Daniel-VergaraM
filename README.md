@@ -19,6 +19,7 @@
 <!--END_SECTION:activity-->
 
 <details> <summary> <b>⚡ Recent Activity</b> </summary>
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2012%20mins-blue)
 
