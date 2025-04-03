@@ -17,7 +17,7 @@ jobs:
           SECTION_NAME: "simplewaka"
           BLOCKS: "⬜🟨🟩"
           SHOW_TIME: true
-          TIME_RANGE: "last_year"
+          TIME_RANGE: "all_time"
           COMMIT_MESSAGE: "Updated simple waka stats section"
           SHOW_MASKED_TIME: true
           SHOW_TITLE: true
