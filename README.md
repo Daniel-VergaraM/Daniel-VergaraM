@@ -76,7 +76,7 @@ tutorial_ts              13 mins             ██░░░░░░░░░�
 <!--START_SECTION:simplewaka-->
 
 ```txt
-From: 10 June 2024 - To: 11 April 2025
+From: 10 June 2024 - To: 12 April 2025
 
 Total Time: 278 hrs 16 mins
 
