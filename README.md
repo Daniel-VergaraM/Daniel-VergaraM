@@ -78,7 +78,7 @@ Taller-TS-2              25 mins             █░░░░░░░░░░�
 <!--START_SECTION:simplewaka-->
 
 ```txt
-From: 10 June 2024 - To: 18 April 2025
+From: 10 June 2024 - To: 19 April 2025
 
 Total Time: 287 hrs 50 mins
 
