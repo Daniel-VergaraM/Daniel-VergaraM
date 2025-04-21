@@ -78,7 +78,7 @@ current                  7 mins              ░░░░░░░░░░░�
 <!--START_SECTION:simplewaka-->
 
 ```txt
-From: 10 June 2024 - To: 20 April 2025
+From: 10 June 2024 - To: 21 April 2025
 
 Total Time: 287 hrs 50 mins
 
