@@ -5,7 +5,7 @@
 
 - 🌱 Student at Universidad de los Andes.
 - 💻 Systems and Computer Engineering.
-- ⌛ [Most recent college "project"](https://daniel-vergaram.github.io/Taller-TS-2/)
+- ⌛ [Most recent college "project"](https://daniel-vergaram.github.io/TallerAngular/)
 - 🔨 [Current working project](https://github.com/Daniel-VergaraM/WebRTC-Video-Broadcast)
 
 
