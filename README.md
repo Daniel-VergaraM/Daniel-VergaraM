@@ -9,7 +9,7 @@
 - 🔨 [Current working project](https://github.com/Daniel-VergaraM/WebRTC-Video-Broadcast)
 
 
-<h3><a href="https://linktr.ee/dvergaram" target="_blank">Socials</a></h3>
+<h3><a href="https://dvergaram.is-a.dev/links" target="_blank">Socials</a></h3>
   
 
 
