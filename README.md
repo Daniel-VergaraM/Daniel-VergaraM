@@ -78,7 +78,7 @@ notes-app                1 hr 23 mins        █░░░░░░░░░░�
 <!--START_SECTION:simplewaka-->
 
 ```txt
-From: 10 June 2024 - To: 15 May 2025
+From: 10 June 2024 - To: 16 May 2025
 
 Total Time: 397 hrs
 
