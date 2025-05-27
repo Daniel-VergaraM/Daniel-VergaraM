@@ -78,7 +78,7 @@ chocoro                  14 mins             █░░░░░░░░░░�
 <!--START_SECTION:simplewaka-->
 
 ```txt
-From: 10 June 2024 - To: 26 May 2025
+From: 10 June 2024 - To: 27 May 2025
 
 Total Time: 419 hrs 55 mins
 
