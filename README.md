@@ -76,7 +76,7 @@ ISIS2603_202510_S3_E3_Ase3 mins              ░░░░░░░░░░░�
 <!--START_SECTION:simplewaka-->
 
 ```txt
-From: 10 June 2024 - To: 28 May 2025
+From: 10 June 2024 - To: 29 May 2025
 
 Total Time: 420 hrs 58 mins
 
