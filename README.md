@@ -22,15 +22,15 @@
 <details> <summary> <b>⚡ Recent Activity</b> </summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-426%20hrs%2051%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-580.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-581.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 298 Contributions in the Year 2025
+> 🏆 299 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -41,10 +41,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                200 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-🌆 Daytime                325 commits         ████████░░░░░░░░░░░░░░░░░   32.86 % 
-🌃 Evening                323 commits         ████████░░░░░░░░░░░░░░░░░   32.66 % 
-🌙 Night                  141 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+🌞 Morning                200 commits         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+🌆 Daytime                331 commits         ████████░░░░░░░░░░░░░░░░░   32.74 % 
+🌃 Evening                339 commits         ████████░░░░░░░░░░░░░░░░░   33.53 % 
+🌙 Night                  141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 ```
 
 
@@ -54,14 +54,19 @@
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 hrs 51 mins       █████████████████████░░░░   82.79 % 
+SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+synapse-app              3 hrs 16 mins       ██████████████░░░░░░░░░░░   55.66 % 
+Synapse                  2 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.34 % 
 ```
 
 
- Last Updated on 09/06/2025 00:56:57 UTC
+ Last Updated on 11/06/2025 00:54:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
