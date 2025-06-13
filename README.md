@@ -75,7 +75,7 @@ Synapse                  2 hrs 36 mins       ███████████�
 <!--START_SECTION:simplewaka-->
 
 ```txt
-From: 10 June 2024 - To: 12 June 2025
+From: 10 June 2024 - To: 13 June 2025
 
 Total Time: 426 hrs 51 mins
 
