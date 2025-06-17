@@ -3,7 +3,7 @@ name: Improved WakaTime Stats
 on:
   schedule:
     # Runs every 2 days
-    - cron: "0 0 */2 * *"
+    - cron: "10 0 * * FRI"
   workflow_dispatch:
 jobs:
   update-readme:
