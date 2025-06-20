@@ -22,27 +22,27 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-426%20hrs%2051%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-581.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-594.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 302 Contributions in the Year 2025
+> 🏆 139 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                200 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-🌆 Daytime                331 commits         ████████░░░░░░░░░░░░░░░░░   32.64 % 
-🌃 Evening                342 commits         ████████░░░░░░░░░░░░░░░░░   33.73 % 
-🌙 Night                  141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+🌞 Morning                202 commits         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+🌆 Daytime                344 commits         ████████░░░░░░░░░░░░░░░░░   32.98 % 
+🌃 Evening                356 commits         █████████░░░░░░░░░░░░░░░░   34.13 % 
+🌙 Night                  141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
 ```
 
 
@@ -52,19 +52,14 @@
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-TypeScript               4 hrs 51 mins       █████████████████████░░░░   82.79 % 
-SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-synapse-app              3 hrs 16 mins       ██████████████░░░░░░░░░░░   55.66 % 
-Synapse                  2 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.34 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/06/2025 00:54:06 UTC
+ Last Updated on 20/06/2025 02:19:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
