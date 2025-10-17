@@ -76,7 +76,7 @@ Caso2-TIC                0 secs              ░░░░░░░░░░░�
 <!--START_SECTION:simplewaka-->
 
 ```txt
-From: 10 June 2024 - To: 09 October 2025
+From: 10 June 2024 - To: 16 October 2025
 
 Total Time: 472 hrs 26 mins
 
