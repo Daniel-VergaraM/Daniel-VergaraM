@@ -68,7 +68,7 @@ No Activity Tracked This Week
 <!--START_SECTION:simplewaka-->
 
 ```txt
-From: 10 June 2024 - To: 19 February 2026
+From: 10 June 2024 - To: 26 February 2026
 
 Total Time: 476 hrs 50 mins
 
