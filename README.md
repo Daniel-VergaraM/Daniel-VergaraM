@@ -7,7 +7,7 @@
 - 💻 Systems and Computer Engineering.
 
 
-<h3><a href="https://dvergaram.is-a.dev/links" target="_blank">Socials</a></h3>
+<h3><a href="https://dvergaram.is-local.org/links" target="_blank">Socials</a></h3>
   
 
 
