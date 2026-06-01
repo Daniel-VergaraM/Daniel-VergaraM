@@ -45,7 +45,7 @@
 <!--START_SECTION:simplewaka-->
 
 ```txt
-From: 10 June 2024 - To: 28 May 2026
+From: 10 June 2024 - To: 01 June 2026
 
 Total Time: 476 hrs 50 mins
 
