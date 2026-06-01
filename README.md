@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-<!--
-**Daniel-VergaraM/Daniel-VergaraM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🌱 Student at Universidad de los Andes.
+- 🌱 Student at University of the Andes
 - 💻 Systems and Computer Engineering.
+- ⚙️ Passionate about setting up application infrastructure, DevOps culture, and continuous integration pipelines.
 
 
 <h3><a href="https://dvergaram.is-local.org/links" target="_blank">Socials</a></h3>
